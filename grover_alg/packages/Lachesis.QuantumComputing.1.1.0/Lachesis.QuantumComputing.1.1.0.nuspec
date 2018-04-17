@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Lachesis.QuantumComputing</id>
+    <version>1.1.0</version>
+    <title>Quantum.NET (Lachesis.QuantumComputing)</title>
+    <authors>Pierre-Henry Baudin</authors>
+    <owners>Pierre-Henry Baudin</owners>
+    <projectUrl>https://github.com/phbaudin/quantum-computing</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library to manipulate qubits and simulate quantum circuits.</description>
+    <summary />
+    <releaseNotes>Introduced identity gates, quantum gate stacking and quantum register reading.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>quantum computing qubit simulation modeling</tags>
+    <dependencies>
+      <dependency id="MathNet.Numerics" version="3.19.0" />
+    </dependencies>
+  </metadata>
+</package>

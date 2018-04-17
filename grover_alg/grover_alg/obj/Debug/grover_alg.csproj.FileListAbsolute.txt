@@ -1,0 +1,9 @@
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\bin\Debug\grover_alg.exe.config
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\bin\Debug\grover_alg.exe
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\bin\Debug\grover_alg.pdb
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\bin\Debug\MathNet.Numerics.dll
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\bin\Debug\QuantumComputing.dll
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\bin\Debug\MathNet.Numerics.xml
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\obj\Debug\grover_alg.csprojResolveAssemblyReference.cache
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\obj\Debug\grover_alg.exe
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\grover_alg\grover_alg\obj\Debug\grover_alg.pdb
